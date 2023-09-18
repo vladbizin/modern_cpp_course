@@ -5,4 +5,6 @@ Task 1 is a MyVector template implementation with size, reverse, clear, push_bac
 
 Task 2 is a Tuple implementation task.
 
-Task 4 is a Shared pointer implementation class with move semantics.
+Task 3 is a Shared pointer implementation class with move semantics.
+
+Task 4 is Forward and Reverse iterators and MyList implementation based on them.
