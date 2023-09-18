@@ -1,4 +1,3 @@
-//Bizin Vladislav 335 
 //myvector template with size, reverse, clear, push_back, pop_back, swap, sort
 //instanced with mystring class
 
